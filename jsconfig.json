@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "jsxFactory": "probably the same as transform-react-jsx setting in your plugins",
+        "baseUrl": ".",
+    },
+    "exclude": ["node_modules", "public"]
+}
