@@ -1,4 +1,4 @@
-# Site emulate error
+# simulate error (CMS)
 
 ================
 
